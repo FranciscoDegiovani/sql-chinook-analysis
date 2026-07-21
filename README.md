@@ -25,4 +25,4 @@ data/
 | # | Question | Result | File |
 |---|---|---|---|
 | 01 | Which are the top 5 countries by total revenue? | USA ($523.06), Canada ($303.96), France ($195.10), Brazil ($190.10), Germany ($156.48) | `queries/01_top_countries_by_revenue.sql` |
-| 02 | Which music genre generates the most revenue? | Rock ($826.65), Latin ($382.14), Metal ($261.36), Alternative & Punk ($241.56), TV Shows ($93.53) | `queries/02_revenue_by_genre.sql` |
+| 02 | Which music genre generates the most revenue? | Rock ($826.65), Latin ($382.14), Metal ($261.36), Alternative & Punk ($241.56), TV Shows ($93.53) | `queries/02_revenue_by_genre.sql` | 
