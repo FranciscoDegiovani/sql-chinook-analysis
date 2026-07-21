@@ -7,7 +7,3 @@ FROM Invoice
 GROUP BY BillingCountry
 ORDER BY TotalRevenue DESC
 LIMIT 5;
-
-
-
-feat: add query for top 5 countries by revenue
