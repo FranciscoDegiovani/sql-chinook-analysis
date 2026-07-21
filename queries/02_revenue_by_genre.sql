@@ -8,4 +8,4 @@ JOIN Track t ON il.TrackId = t.TrackId
 JOIN Genre g ON t.GenreId = g.GenreId
 GROUP BY g.Name
 ORDER BY TotalRevenue DESC
-LIMIT 5;
+LIMIT 5; 
