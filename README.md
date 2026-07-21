@@ -22,10 +22,6 @@ data/
 
 ## Queries
 
-| # | Question | File |
-|---|---|---|
-| 01 | Which are the top 5 countries by total revenue? | `queries/01_top_countries_by_revenue.sql` |
-
-## Status
-
-In progress — adding new business questions and queries as I go.
+| # | Question | Result | File |
+|---|---|---|---|
+| 01 | Which are the top 5 countries by total revenue? | USA ($523.06), Canada ($303.96), France ($195.10), Brazil ($190.10), Germany ($156.48) | `queries/01_top_countries_by_revenue.sql` |
